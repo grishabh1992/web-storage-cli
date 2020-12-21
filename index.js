@@ -9,7 +9,7 @@ clear();
 
 console.log(
   chalk.yellow(
-    figlet.textSync('Share2Act Cradential Store', { horizontalLayout: 'full' })
+    figlet.textSync('Cradential Store', { horizontalLayout: 'full' })
   )
 );
 
