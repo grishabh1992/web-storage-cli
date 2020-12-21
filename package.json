@@ -1,0 +1,28 @@
+{
+  "name": "web-storage-cli",
+  "version": "1.0.0",
+  "description": "provide utility to save information in broswer using command line",
+  "main": "index.js",
+  "bin": {
+    "web-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rishabh Garg",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "connect": "^3.7.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "kill-port": "^1.6.1",
+    "node-persist": "^3.1.0",
+    "open": "^7.3.0",
+    "puppeteer": "^5.5.0",
+    "serve-static": "^1.14.1"
+  }
+}
