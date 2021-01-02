@@ -1,7 +1,7 @@
 {
-  "name": "web-storage-cli",
+  "name": "cmd-to-browser-cli",
   "version": "1.0.0",
-  "description": "provide utility to save information in broswer using command line",
+  "description": "provide utility to save information in browser using command line",
   "main": "index.js",
   "bin": {
     "web-cli": "./index.js"
